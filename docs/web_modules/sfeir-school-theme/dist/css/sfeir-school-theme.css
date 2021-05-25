@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /**
- * Sfeir Override theme for reveal.js.
+ * SFEIR Override theme for reveal.js.
 
  * By Jean-François Garreau : jefBinomed
  */
@@ -437,7 +437,7 @@ body {
     background-color: #FFF; } }
 
 /*
-* 
+*
 * MIXINS
 **/
 img[alt*=h-50], .h-50, .h-50 + * {
@@ -926,7 +926,7 @@ img[alt*=wm-1000], .wm-1000, .wm-1000 + * {
   --sfeir-green: #0ab580; }
 
 /**
-* First Slide of Sfeir School
+* First Slide of SFEIR School
 */
 .reveal .slides section[data-background].first-slide {
   position: absolute;

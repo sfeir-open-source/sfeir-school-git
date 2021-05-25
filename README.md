@@ -1,6 +1,6 @@
 # About
 
-Template repository for Sfeir School, this template could be use to start a school with revealJS and sfeir school theme
+Template repository for SFEIR School, this template could be use to start a school with revealJS and SFEIR School theme
 
 Don't forget to replace all xxx by your techno
 
@@ -14,17 +14,19 @@ Don't forget to replace all xxx by your techno
 
 The text below is the template you could use for your readme
 
-# XXX
+# SFEIR School Git
 
-A [SFEIR School](https://www.sfeir.com/formation/school/)
+<p align="center">
+ <img style="display:block" width="20%" height="20%" src="./docs/assets/images/sfeir-school-logo.png" alt="SFEIR School logo">
+</p>
 
-![logo](https://www.sfeir.com/img/school/formations/xxx.png)
+<br/>
 
-[Planning, trainers and other details](https://www.sfeir.com/formation/school/xxx/)
+[Planning, trainers and other details](https://www.sfeir.com/fr/contenus-dexperts/sfeir-school)
 
 # Slides
 
-You can view the slides [here](https://sfeir-open-source.github.io/sfeir-school-xxx/).
+You can view the slides [here](https://sfeir-open-source.github.io/sfeir-school-git/).
 
 ## Develop
 
@@ -32,7 +34,7 @@ To run docs locally, go in directory `docs` and run `npx serve` of if you don't 
 
 ## Workshop
 
-Workshops are in directory `steps` : 
+Workshops are in directory `steps` :
 * two directories per workshop :
   * one with a README.md with workshop steps and source file to complete
   * a second directory suffixed with `-solution` which contains source file with solutions.

@@ -1,7 +1,7 @@
 {
-  "name": "sfeirschoolxxx",
+  "name": "sfeirschoolgit",
   "version": "1.0.0",
-  "description": "Sfeir School XXX with revealJS",
+  "description": "SFEIR School Git with revealJS",
   "scripts": {
     "sass": "node-sass ./scss/slides.scss -o ./css/ --source-map=true --watch=\"scss\" --recursive=\"scss\"",
     "sass-once": "node-sass ./scss/slides.scss -o ./css/ --source-map=true ",
@@ -16,7 +16,7 @@
     "url": "git+https://github.com/sfeir-open-source/sfeir-school-template.git"
   },
   "keywords": [
-    "xxx",
+    "git",
     "sfeir"
   ],
   "author": "jefbinomed",

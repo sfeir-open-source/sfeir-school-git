@@ -6,7 +6,7 @@
 
 <br/>
 
-[Planning, trainers and other details](https://www.sfeir.com/fr/contenus-dexperts/sfeir-school)
+[Discover the SFEIR Schools](https://www.sfeir.com/fr/contenus-dexperts/sfeir-school)
 
 # Slides
 
